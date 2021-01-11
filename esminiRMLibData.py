@@ -10,7 +10,6 @@
 
 
 from ctypes import *
-from enum import Enum
 
 
 class PositionData(Structure):
